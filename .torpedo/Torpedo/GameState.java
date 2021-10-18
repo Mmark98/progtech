@@ -1,10 +1,8 @@
-package hu.nye.progtech.sudoku.model;
+package hu.nye.progtech.torpedo.model;
 
 import java.util.Objects;
 
-/**
- * Represents the current state of the game.
- */
+
 public class GameState {
 
     public static GameStateBuilder builder() {
